@@ -3,7 +3,8 @@ We used a CSV file named "states_all.csv" to get the data and analyze it. This f
 eduacation in the united states. It also contain the information of an average score of the students in each state in different subjects in united states. 
 We perfored series of operation decribed below to analyze the data and made conclusions.
 
-Performed:    
+Performed: 
+
        1. Droped the columns that contained a little data
        2. Droped the columns that were not useful.
        3. Made a new column that contain the average score.

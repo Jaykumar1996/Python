@@ -1,9 +1,9 @@
 # Python
-The Project file uses a CSV file named "states_all.csv". This file contains the information on how each state government spends their money in eduacation in the united states.
-It also contain the information of an average score in different subjects grouped under each states of united states.
+We used a CSV file named "states_all.csv" to get the data and analyze it. This file contains the information on how each state government spends their money in
+eduacation in the united states. It also contain the information of an average score of the students in each state in different subjects in united states. 
+We perfored series of operation decribed below to analyze the data and made conclusions.
 
-Achievments:
-      
+Performed:    
        1. Droped the columns that contained a little data
        2. Droped the columns that were not useful.
        3. Made a new column that contain the average score.
